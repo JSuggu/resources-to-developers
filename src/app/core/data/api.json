@@ -1,0 +1,61 @@
+{
+    "json placeholder": {
+        "description": "API falsa gratuita para pruebas y creación de prototipos.Desarrollado por JSON Server + LowDB. Probado con XV.",
+        "url": "https://jsonplaceholder.typicode.com/",
+        "tags": ["api", "falsa", "gratuito", "rest"]
+    },
+    "open weather": {
+        "description": "OpenWeather es un equipo de expertos en TI y científicos de datos que ha estado practicando la ciencia de datos meteorológicos profundos. Para cada punto del globo, OpenWeather proporciona datos meteorológicos históricos, actuales y pronosticados a través de API a la velocidad de la luz. Sede en Londres, Reino Unido.",
+        "url": "https://openweathermap.org/api",
+        "tags": ["api", "clima", "gratuito", "pago", "rest"],
+        "image url": "https://www.svgrepo.com/show/503853/weather.svg"
+    },
+    "api futbol": {
+        "description": "¡Bienvenidos a Api-Football! Puede utilizar nuestra API para acceder a todos los puntos finales de la API, que pueden obtener información sobre las ligas y copas de fútbol.",
+        "url": "https://www.api-football.com/",
+        "tags": ["api", "futbol", "gratuito", "pago", "rest"],
+        "image url": "https://www.svgrepo.com/show/352760/futbol.svg"
+    },
+    "api ninjas": {
+        "description": "Desarrollamos, probamos y mejoramos cada API como un producto independiente que cumple con los más altos estándares. Nuestras APIS utilizan las fuentes de datos más confiables y los algoritmos más avanzados disponibles.",
+        "url": "https://www.api-ninjas.com/",
+        "tags": ["api", "variado", "gratuito", "pago", "rest"],
+        "image url": "https://www.svgrepo.com/show/484646/ninja.svg"
+    },
+    "random user generator": {
+        "description": "Una API gratuita y de código abierto para generar datos de usuario aleatorios. Como Lorem Ipsum, pero para la gente.",
+        "url": "https://randomuser.me/",
+        "tags": ["api", "gratuito", "falsa", "rest", "usuarios"],
+        "image url": "https://www.svgrepo.com/show/527946/user-circle.svg"
+    },
+    "nasa api": {
+        "description": "Bienvenido al portal API de la NASA. El objetivo de este sitio es hacer que los datos de la NASA, incluyendo imágenes, eminentemente accesibles para los desarrolladores de aplicaciones. Este catálogo se centra en API ampliamente útiles y fáciles de usar y no contiene todas las API de la NASA.",
+        "url": "https://api.nasa.gov./",
+        "tags": ["api", "gratuito", "nasa", "rest", "variado"],
+        "image url": "https://www.svgrepo.com/show/303330/nasa-6-logo.svg"
+    },
+    "poke api": {
+        "description": "Todos los datos de Pokémon que necesitarás en un solo lugar, fácilmente accesibles a través de una moderna API RESTful gratuita de código abierto.",
+        "url": "https://pokeapi.co/",
+        "tags": ["api", "gratuito", "pokemon", "rest"],
+        "image url": "https://www.svgrepo.com/show/276264/pokeball-pokemon.svg"
+    },
+    "rest countries": {
+        "description": "Este proyecto está inspirado en restcountries.eu de Fayder Florez. A pesar de que el proyecto original ahora tiene trasladado a una API de base de suscripción, este proyecto sigue siendo de código abierto y de uso gratuito.",
+        "url": "https://restcountries.com/",
+        "tags": ["api", "gratuito", "paises", "rest"],
+        "image url": "https://www.svgrepo.com/show/236756/worldwide-shipping-and-delivery.svg"
+    },
+    "trivia api": {
+        "description": "Open Trivia Database ofrece una API que proporciona acceso a una gran cantidad de preguntas en diferentes categorías y dificultades.",
+        "url": "https://opentdb.com/api_config.php",
+        "tags": ["api", "grauito", "trivia", "rest"],
+        "image url": "https://www.svgrepo.com/show/519876/trivia-you.svg"
+    },
+    "rawg": {
+        "description": "RAWG es una base de datos de videojuegos que ofrece una API gratuita que proporciona acceso a una gran cantidad de información sobre videojuegos, incluyendo detalles sobre títulos, plataformas, géneros, desarrolladores, críticas y más. La API es gratuita hasta cierto límite de uso.",
+        "url": "https://api.rawg.io/docs/",
+        "tags": ["api", "grauito", "pago", "juego", "creado de contenido", "genero", "plataforma", "desarrollador", "rest"],
+        "image url": "https://www.svgrepo.com/show/501816/play-game.svg"
+    }
+}

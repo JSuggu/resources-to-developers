@@ -1,0 +1,50 @@
+{
+    "arquitectura java": {
+        "description": "Blog sobre Java y Spring Framework, con explicaciones y ejemplos sobre el funcionamiento del lenguaje y sus librerias.",
+        "url": "https://www.arquitecturajava.com/",
+        "tags": ["java", "spring", "codigo limpio", "tutorial", "guia", "blog", "programacion"],
+        "image url": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+    },
+    "mdn": {
+        "description": "Resources for Developers, by Developers. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.",
+        "url": "https://developer.mozilla.org/es/",
+        "tags": ["javascript", "html", "css", "tutorial", "guia", "programacion"],
+        "image url": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+    },
+    "css tricks": {
+        "description": "Pagina gestionada por Digital Ocean, con guias y articulos relacionados a Css",
+        "url": "https://css-tricks.com/",
+        "tags": ["blog", "css", "guia", "tutorial"],
+        "image url": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+    },
+    "tailwind cheatsheet": {
+        "description": "Encuentra rápidamente todos los nombres de clase y propiedades CSS con esta hoja de trucos interactiva. ¡La única hoja de trucos de Tailwind que necesitarás!",
+        "url": "https://tailwindcomponents.com/cheatsheet/",
+        "tags": ["tailwind", "css", "guia"],
+        "image url": "https://www.svgrepo.com/show/374118/tailwind.svg"
+    },
+    "refactoring guru": {
+        "description": "Refactoring.Guru te ayuda a descubrir todo lo que necesitas saber sobre la refactorización, los patrones de diseño, los principios SOLID y otros temas de la programación inteligente.",
+        "url": "https://refactoring.guru/es",
+        "tags": ["patrones de diseño", "codigo limpio", "java", "c++", "typescript", "c#", "python", "php", "go", "ruby", "rust", "swift", "programacion", "blog"],
+        "image url": "https://www.svgrepo.com/show/191426/raccoon.svg"
+    }, 
+    "javascript moderno": {
+        "description": "El Tutorial de JavaScript Moderno. Cómo se hace ahora. Desde lo básico hasta temas avanzados con explicaciones simples pero detalladas.",
+        "url": "https://es.javascript.info/",
+        "tags": ["javascript", "guia", "tutorial", "gratuito", "programacion"],
+        "image url": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+    },
+    "design systems": {
+        "description": "Una publicación de sistemas de diseño de Figma",
+        "url": "https://www.designsystems.com/",
+        "tags": ["diseño", "guia", "tutorial", "gratuito", "figma"],
+        "image url": "https://www.svgrepo.com/show/262359/circles.svg"
+    },
+    "free code camp": {
+        "description": "Aprende a programar gratis. Construye proyectos. Obtén certificaciones. Desde 2014, más de 40.000 graduados de freeCodeCamp.org han conseguido trabajos en empresas de tecnología",
+        "url": "https://www.freecodecamp.org/espanol/news",
+        "tags": ["programacion", "variado", "gratuito", "tutorial", "guia", "certificacion", "javascript", "css", "html", "react", "python", "buenas practicas", "logica", "codigo limpio"],
+        "image url": "https://www.svgrepo.com/show/506715/fire.svg"
+    }
+}
