@@ -1,0 +1,54 @@
+{
+    "result": [
+        {
+            "title": "dafont", 
+            "description": "Sitio web que recopila fuentes, tanto gratuitas como de pago",
+            "url": "https://www.dafont.com/es/",
+            "tags": ["fuente", "texto"],
+            "imageUrl": "https://www.svgrepo.com/show/523878/text-italic-square.svg"
+        },
+        {
+            "title": "svg repo",
+            "description": "500.000+ Vectores e Iconos SVG con licencia abierta. Busque, explore y edite los iconos o vectores gratuitos que mejor se adapten a sus proyectos utilizando una amplia variedad de bibliotecas de vectores. Descargue vectores e iconos SVG gratuitos para uso comercial.",
+            "url": "https://www.svgrepo.com/",
+            "tags": ["svg", "icono", "imagen", "vector"],
+            "imageUrl": "https://www.svgrepo.com/show/374110/svg.svg"
+        },
+        {
+            "title": "roadmap developers",
+            "description": "Plataforma que contiene mapas con el contenido que debe aprenderse de algun lenguaje o tema en particular de programación",
+            "url": "https://roadmap.sh/",
+            "tags": ["diagrama", "lenguaje", "programacion", "guia"],
+            "imageUrl": "https://www.svgrepo.com/show/380081/roadmap-timeline.svg"
+        },
+        {
+            "title": "squoosh",
+            "description": "Las imágenes más pequeñas significan tiempos de carga más rápidos. Squoosh puede reducir el tamaño del archivo y mantener una alta calidad.",
+            "url": "https://squoosh.app/",
+            "tags": ["diagrama", "lenguaje", "codigo", "programacion", "aplicacion"],
+            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+        }, 
+        {
+            "title": "pixabay",
+            "description": "Impresionantes fotos de archivo gratuitas para descargar. Más de 3.7 millones+ de fotos de archivo libres de derechos compartidas por nuestra talentosa comunidad.",
+            "url": "https://pixabay.com/photos/",
+            "tags": ["coleccion", "imagen", "gratuito", "ilustracion", "vector", "video", "musica"],
+            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+        },
+        {
+            "title": "foodiesfeed",
+            "description": "Colección de imagenes de comidas",
+            "url": "https://www.foodiesfeed.com/",
+            "tags": ["coleccion", "imagen", "gratuito", "pago"],
+            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+        },
+        {
+            "title": "monkeytype",
+            "description": "Monkeytype te permite probar tu velocidad y precisión de escritura en diferentes modos y personalizar tu configuración. No tiene nada que ver con monos o monos mecanografiadores.",
+            "url": "https://monkeytype.com/",
+            "tags": ["aplicacion", "mecanografia", "gratuito"],
+            "imageUrl": "https://www.svgrepo.com/show/402165/monkey-face.svg"
+        }
+    ]
+    
+}

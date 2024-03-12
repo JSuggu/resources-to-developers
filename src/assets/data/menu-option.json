@@ -1,0 +1,24 @@
+{
+    "result": [
+        {
+            "title": "api",
+            "description": "Una serie de api tanto grautitas y de pago"
+        },
+        {
+            "title": "design",
+            "description": "Herramientas para diseñar las paginas o cosas relacionadas a css"
+        },
+        {
+            "title": "programming-logic",
+            "description": "Paginas para practicar logica de programación y obtener certificados"
+        },
+        {
+            "title": "tutorials-and-guides",
+            "description": "Tutoriales y guias sobre temas relacionados a lenguajes de programación, diseño o buenas prácticas"
+        },
+        {
+            "title": "others",
+            "description": "Contenido variado"
+        }
+    ]
+}

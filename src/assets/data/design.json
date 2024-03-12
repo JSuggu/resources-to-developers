@@ -1,0 +1,46 @@
+{
+    "result": [
+        {
+            "title": "moqups",
+            "description": "Moqups es una aplicación web simplificada e intuitiva que te ayuda a crear y colaborar en esquemas, maquetas, diagramas y prototipos — para cualquier tipo de proyecto.",
+            "url": "https://moqups.com/es/",
+            "tags": ["diseño", "esquema", "diagramas", "prototipos", "herramienta", "aplicacion"],
+            "imageUrl": "https://www.svgrepo.com/show/247860/smartphone-mockup.svg"
+        },
+        {
+            "title": "lucidchart",
+            "description": "Lucidchart es la aplicación de diagramación inteligente que reúne a los equipos para que tomen mejores decisiones y construyan el futuro.",
+            "url": "https://www.lucidchart.com/pages/es",
+            "tags": ["diseño", "esquema", "diagramas", "prototipos", "uml", "erd", "herramienta", "aplicacion"],
+            "imageUrl": "https://www.svgrepo.com/show/302088/diagram-hierarchy.svg"
+        },
+        {
+            "title": "adobe color",
+            "description": "Una rueda de color donde puedes seleccionar uno o varios colores y te devuelve su valor en hexadecimal, ademas de permitirte hacer otro tipo de modificaciones.",
+            "url": "https://color.adobe.com/es/create/color-wheel",
+            "tags": ["diseño", "color", "herramienta", "aplicacion"],
+            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+        },
+        {
+            "title": "super designer",
+            "description": "Crea hermosos diseños en unos pocos clics. Una colección de herramientas de diseño gratuitas para crear fondos, patrones, formas, imágenes y más únicos con solo unos pocos clics",
+            "url": "https://superdesigner.co/",
+            "tags": ["diseño", "svg", "herramienta", "css", "aplicacion"],
+            "imageUrl": "https://www.svgrepo.com/show/439108/color-theory.svg"
+        }, 
+        {
+            "title": "layoutit",
+            "description": "LayoutIt! te ayuda a facilitar la codificación de tu frontend sin necesidad de ser un experto en JavaScript, HTML5 o CSS3",
+            "url": "https://superdesigner.co/",
+            "tags": ["diseño", "herramienta", "css", "aplicacion", "html"],
+            "imageUrl": "https://www.svgrepo.com/show/373730/layout.svg"
+        },
+        {
+            "title": "web gradients",
+            "description": "WebGradients es una colección gratuita de 180 degradados lineales que puedes usar como telón de fondo de contenido en cualquier parte de su sitio web. Copia fácil CSS3 crossbrowser y úsalo en un momento! También hemos preparó una versión .PNG de cada degradado.",
+            "url": "https://webgradients.com/",
+            "tags": ["diseño","css", "color", "degradado", "gratuito", "coleccion"],
+            "imageUrl": "https://www.svgrepo.com/show/76966/gradient.svg"
+        }
+    ]
+}

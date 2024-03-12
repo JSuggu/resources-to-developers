@@ -1,1 +1,5 @@
-<p>navbar works!</p>
+<div class="menu-container">
+    <section class="menu">
+        <a class="item" [routerLink]="['/'+item.title]" routerLinkActive="active"  *ngFor="let item of menuOptions">{{item.title}}</a>
+    </section>
+</div>

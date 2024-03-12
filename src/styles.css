@@ -1,1 +1,60 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'sunflower';
+    src: url("assets/saeda-font.otf");
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'sunflower';
+    box-sizing: border-box
+}
+
+body {
+    background-color: rgb(249, 250, 251);
+}
+
+h1, h2, h3 span, a, p{
+    color: rgb(53, 53, 53);
+    text-decoration: none;
+    letter-spacing: 1.5px;
+}
+
+app-header{
+    grid-area: header;
+    justify-self: center;
+    width: 100%;
+}
+
+app-navbar{
+    grid-area: navbar;
+    justify-self: flex-start;
+    align-self: flex-start;
+}
+
+app-content{
+    grid-area: content;
+    justify-self: flex-start;
+    align-self: flex-start;
+}
+
+app-footer{
+    grid-area: footer;
+    justify-self: center;
+    width: 100%;
+}
+
+app-root {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 4fr 20fr 2fr;
+    grid-template-rows: 1fr 4fr 1fr;
+    grid-template-areas: 
+        "header header header header"
+        ". navbar content ."
+        "footer footer footer footer"
+    ;
+    row-gap: 20px;
+}

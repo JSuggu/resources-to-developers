@@ -1,0 +1,12 @@
+<div class="content-container">
+    <h3 class="name">{{filterChosen}}</h3>
+    <section class="content">
+        <a class="card" *ngFor="let item of content" href={{item.url}} target="_blank">
+            <section class="img-container"><img src={{item.imageUrl}} alt={{item.title}}></section>
+            <section class="data">
+                <span class="title">{{item.title}}</span>
+                <p class="description">{{item.description}}</p>
+            </section>
+        </a>
+    </section>
+</div>
