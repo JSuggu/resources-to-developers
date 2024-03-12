@@ -1,5 +1,8 @@
 <div class="menu-container">
     <section class="menu">
-        <a class="item" [routerLink]="['/'+item.title]" routerLinkActive="active"  *ngFor="let item of menuOptions">{{item.title}}</a>
+        <a class="item" [routerLink]="['/'+item.title]" routerLinkActive="active"  *ngFor="let item of menuOptions">
+            <img src={{item.imageUrl}} alt={{item.title}}>
+            {{item.title}}
+        </a>
     </section>
 </div>

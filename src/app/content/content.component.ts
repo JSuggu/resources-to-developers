@@ -3,6 +3,7 @@ import { GetDataService } from '../core/services/get-data/get-data.service';
 import { NgFor, NgIf } from '@angular/common';
 import { NavigationEnd, Router } from '@angular/router';
 import { filter } from 'rxjs/operators';
+import dataModel from '../core/models/data';
 
 @Component({
   selector: 'app-content',
@@ -13,7 +14,7 @@ import { filter } from 'rxjs/operators';
 })
 export class ContentComponent implements OnInit { 
   filterChosen: string = '';
-  content: any[] = [];
+  content: dataModel[] = [];
 
   constructor(private getDataService: GetDataService, private router: Router){
     this.router.events.pipe(

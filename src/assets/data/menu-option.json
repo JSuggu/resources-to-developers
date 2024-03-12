@@ -2,23 +2,28 @@
     "result": [
         {
             "title": "api",
-            "description": "Una serie de api tanto grautitas y de pago"
+            "description": "Una serie de api tanto grautitas y de pago",
+            "imageUrl": "https://www.svgrepo.com/show/503162/api.svg"
         },
         {
             "title": "design",
-            "description": "Herramientas para diseñar las paginas o cosas relacionadas a css"
+            "description": "Herramientas para diseñar las paginas o cosas relacionadas a css",
+            "imageUrl": "https://www.svgrepo.com/show/421877/design-education-painting.svg"
         },
         {
             "title": "programming-logic",
-            "description": "Paginas para practicar logica de programación y obtener certificados"
+            "description": "Paginas para practicar logica de programación y obtener certificados",
+            "imageUrl": "https://www.svgrepo.com/show/383137/chip-component.svg"
         },
         {
             "title": "tutorials-and-guides",
-            "description": "Tutoriales y guias sobre temas relacionados a lenguajes de programación, diseño o buenas prácticas"
+            "description": "Tutoriales y guias sobre temas relacionados a lenguajes de programación, diseño o buenas prácticas",
+            "imageUrl": "https://www.svgrepo.com/show/443363/brand-readme.svg"
         },
         {
             "title": "others",
-            "description": "Contenido variado"
+            "description": "Contenido variado",
+            "imageUrl": "https://www.svgrepo.com/show/306141/googlenearby.svg"
         }
     ]
 }

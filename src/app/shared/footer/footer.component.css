@@ -3,4 +3,8 @@
     width: 100%;
     justify-content: center;
     padding: 20px;
+    border-top: 1px solid rgb(220, 220, 220);
+    background-color: rgb(255,255,255);
+    align-items: center;
+    gap: 20px;
 }

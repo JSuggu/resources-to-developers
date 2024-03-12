@@ -5,21 +5,21 @@
             "description": "Blog sobre Java y Spring Framework, con explicaciones y ejemplos sobre el funcionamiento del lenguaje y sus librerias.",
             "url": "https://www.arquitecturajava.com/",
             "tags": ["java", "spring", "codigo limpio", "tutorial", "guia", "blog", "programacion"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/373697/java.svg"
         },
         {
             "title": "mdn",
             "description": "Resources for Developers, by Developers. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.",
             "url": "https://developer.mozilla.org/es/",
             "tags": ["javascript", "html", "css", "tutorial", "guia", "programacion"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/354054/mdn.svg"
         },
         {
             "title": "css tricks",
             "description": "Pagina gestionada por Digital Ocean, con guias y articulos relacionados a Css",
             "url": "https://css-tricks.com/",
             "tags": ["blog", "css", "guia", "tutorial"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/372823/css-tricks.svg"
         },
         {
             "title": "tailwind cheatsheet",
@@ -40,7 +40,7 @@
             "description": "El Tutorial de JavaScript Moderno. Cómo se hace ahora. Desde lo básico hasta temas avanzados con explicaciones simples pero detalladas.",
             "url": "https://es.javascript.info/",
             "tags": ["javascript", "guia", "tutorial", "gratuito", "programacion"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/372884/javascript-1.svg"
         },
         {
             "title": "design systems",

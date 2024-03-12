@@ -5,7 +5,7 @@
             "description": "HackerRank es una plataforma de contratación de tecnología que es el estándar para evaluar las habilidades de los desarrolladores para más de 3,000+ empresas en todo el mundo. Al permitir que los reclutadores de tecnología y los gerentes de contratación evalúen objetivamente el talento en cada etapa del proceso de reclutamiento, HackerRank ayuda a las empresas a contratar desarrolladores calificados e innovar más rápido.",
             "url": "https://www.hackerrank.com/",
             "tags": ["practica", "logica", "programacion", "trabajo", "ejercicios", "certificacion"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/341892/hackerrank.svg"
         },
         {
             "title": "code signal",
@@ -19,21 +19,21 @@
             "description": "Exercism es una plataforma donde cualquiera puede aprender y dominar la programación de forma gratuita, sin sentirse perdido o estúpido. No solo contiene ejercicios de lógica sino que tambien añaden explicaciones.",
             "url": "https://exercism.org/",
             "tags": ["practica", "logica", "programacion", "ejercicios"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/341803/exercism.svg"
         },
         {
             "title": "leet code",
             "description": "En LeetCode, nuestra misión es ayudarte a mejorar y conseguir el trabajo de tus sueños. Contamos con un repositorio considerable de recursos de entrevistas para muchas empresas. En los últimos años, nuestros usuarios han conseguido trabajos en las principales empresas de todo el mundo. Ahora admitimos 14 lenguajes de codificación populares. En esencia, LeetCode se trata de desarrolladores. Nuestras potentes herramientas de desarrollo, como Playground, te ayudan a probar, depurar e incluso escribir tus propios proyectos en línea.",
             "url": "https://leetcode.com/",
             "tags": ["practica", "logica", "programacion", "trabajo", "ejercicios"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/341985/leetcode.svg"
         },
         {
             "title": "edabit",
             "description": "Aprenda a codificar con más de 10,000 desafíos interactivos. Obtén XP, desbloquea logros y sube de nivel. Es un atajo a través del laberinto de codificación.",
             "url": "https://edabit.com/",
             "tags": ["practica", "logica", "programacion", "ejercicios"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/402059/letter-e.svg"
         },
         {
             "title": "project euler",

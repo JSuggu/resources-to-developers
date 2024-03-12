@@ -5,7 +5,7 @@
             "description": "API falsa gratuita para pruebas y creación de prototipos.Desarrollado por JSON Server + LowDB. Probado con XV.",
             "url": "https://jsonplaceholder.typicode.com/",
             "tags": ["api", "falsa", "gratuito", "rest"],
-            "imageUrl": "https://www.svgrepo.com/show/408457/image-landscape-png.svg"
+            "imageUrl": "https://www.svgrepo.com/show/458759/json.svg"
         },
         {
             "title": "open weather",

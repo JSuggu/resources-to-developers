@@ -10,17 +10,25 @@
     padding: 10px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px 10px 10px 10px;
-    border: 1px solid rgb(200, 200, 200);
+    border: 1px solid rgb(220, 220, 220);
 }
 
 .item{
+    display: flex;
+    align-items: center;
     padding: 10px;
     text-decoration: none;
     text-transform: capitalize;
     border-radius: 10px 10px 10px 10px;
     transition: 0.1s;
+    gap: 10px;
 }
 
 .item:hover{
     background-color: rgb(228, 236, 238);
+}
+
+.item img {
+    width: 20px;
+    height: 20px;
 }

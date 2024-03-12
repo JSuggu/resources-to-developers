@@ -15,7 +15,7 @@ body {
     background-color: rgb(249, 250, 251);
 }
 
-h1, h2, h3 span, a, p{
+h1, h2, h3, span, a, p{
     color: rgb(53, 53, 53);
     text-decoration: none;
     letter-spacing: 1.5px;
@@ -56,5 +56,6 @@ app-root {
         ". navbar content ."
         "footer footer footer footer"
     ;
-    row-gap: 20px;
+    row-gap: 30px;
+    column-gap: 30px;
 }
