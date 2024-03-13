@@ -24,6 +24,7 @@ h1, h2, h3, span, a, p{
 app-header{
     grid-area: header;
     justify-self: center;
+    align-self: flex-start;
     width: 100%;
 }
 
@@ -42,6 +43,7 @@ app-content{
 app-footer{
     grid-area: footer;
     justify-self: center;
+    align-self: flex-end;
     width: 100%;
 }
 
@@ -58,4 +60,28 @@ app-root {
     ;
     row-gap: 30px;
     column-gap: 30px;
+}
+
+@media screen and (max-width: 480px) {
+    app-navbar{
+        display: block;
+        position: absolute;
+        top: 26px;
+        right: 26px;
+    }
+    
+    app-content{
+        grid-area: content;
+        justify-self: flex-start;
+        align-self: flex-start;
+        padding: 10px;
+    }
+    
+    app-root {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+        "header header"
+        "content content"
+        "footer footer";
+    }
 }

@@ -7,5 +7,7 @@ export const routes: Routes = [
     {path: "menu-option", component: ContentComponent},
     {path: "programming-logic", component: ContentComponent},
     {path: "tutorials-and-guides", component: ContentComponent},
-    {path: "others", component: ContentComponent}
+    {path: "others", component: ContentComponent},
+    {path: "", redirectTo: "/api", pathMatch: 'full'},
+    {path: "**", redirectTo: "/api"},
 ];
